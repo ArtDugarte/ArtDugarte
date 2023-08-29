@@ -1,4 +1,4 @@
-<h2 align="center">♠️ Hi ✌️ My name is Arthuro Dugarte and I'm a FullStack Jr. Developer  from Venezuela ♠️</h2>
+<h3 align="center">♠️ Hi ✌️ My name is Arthuro Dugarte and I'm a FullStack Jr. Developer  from Venezuela ♠️</h3>
 
 ###
 
