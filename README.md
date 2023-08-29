@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyNzJhOHczb2swbWwwa2UzazZsZmd6NmZ3NW9xaGVjcGI0eXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -69,6 +65,10 @@
 </div>
 
 ###
+
+<div align="center"> 
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAyNzJhOHczb2swbWwwa2UzazZsZmd6NmZ3NW9xaGVjcGI0eXJqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 <br clear="both">
 
